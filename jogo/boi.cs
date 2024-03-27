@@ -1,6 +1,6 @@
 namespace jogo;
 
-public class paiclass : boi
+public class boi : paiclass
 {
-    int work
+    int Work;
 }

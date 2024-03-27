@@ -1,6 +1,6 @@
-namespace galinha;
+namespace jogo;
 
-public class paiclass : galinha
+public class galinha : paiclass
 {
-    int work
+    int Work;
 }
