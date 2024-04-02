@@ -1,6 +1,7 @@
-﻿obj\Debug\net8.0-android\resizetizer\r\drawable\boi.png
-obj\Debug\net8.0-android\resizetizer\r\drawable\cavalo.jpg
-obj\Debug\net8.0-android\resizetizer\r\drawable\fazenda.jpg
+﻿obj\Debug\net8.0-android\resizetizer\r\drawable\cavalo.jfif
+obj\Debug\net8.0-android\resizetizer\r\drawable\galinha.jpg
+obj\Debug\net8.0-android\resizetizer\r\drawable\inicial.jpg
+obj\Debug\net8.0-android\resizetizer\r\drawable\vaca.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png

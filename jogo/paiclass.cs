@@ -4,14 +4,21 @@ public class paiclass
 {
     int Hunger;
     int Thirst;
-    int Money;
+    int Happy;
+
+    protected string Arquivo;
+
+    public string GetArquivo()
+    {
+        return Arquivo;
+    }
 
     public paiclass()
 
 {
     Hunger=10;
     Thirst=10;
-    Money=5;
+    Happy=5;
 }
     public void SetHunger(int f)
 {
@@ -30,9 +37,10 @@ public class paiclass
 {
     return Thirst;
 }
-    public int GetMoney()
+    public int GetHappy()
 {
-    return Money;
+    return Happy;
 }
+
 }
 

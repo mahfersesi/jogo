@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="jogo.MainPage">
+             x:Class="jogo.MainPage"
+             Shell.NavBarIsVisible="false">
 
     <Grid>
     <Grid.RowDefinitions>
@@ -12,15 +13,11 @@
     </Grid.RowDefinitions>
 
     <Image
-        Source="fazenda.jpg"
+        Source="inicial.jpg"
         Aspect="AspectFill"
         Grid.RowSpan="4"/>
 
-    <Image
-        Source="cavalo.jpg"
-        Aspect="AspectFill"
-        Grid.RowSpan="4"/>
-
+    
 
 
 

@@ -47,7 +47,6 @@ C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
-C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\boi.png
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\mauiimage.stamp
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\libraryprojectimports.cache
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_BuildLibraryImportsCache.stamp
@@ -1037,5 +1036,7 @@ C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_ConvertResourcesCases.s
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\cavalo.jpg
-C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\fazenda.jpg
+C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\cavalo.jfif
+C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\vaca.png
+C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\inicial.jpg
+C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\galinha.jpg
