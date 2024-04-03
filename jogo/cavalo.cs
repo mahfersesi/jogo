@@ -1,6 +1,13 @@
 namespace jogo;
 
-public class cavalo : paiclass
+public class Cavalo : paiclass
 {
+    
+    public Cavalo()
+    {
+        Arquivo="cavalo.png";
+        fome=0,5;
+    }
+
 
 }

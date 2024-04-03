@@ -11500,7 +11500,7 @@ public final class R {
     public static final int design_password_eye=0x7f070085;
     public static final int design_snackbar_background=0x7f070086;
     public static final int dotnet_bot=0x7f070087;
-    public static final int galinha=0x7f070088;
+    public static final int galinhasemfundo=0x7f070088;
     public static final int ic_arrow_back_black_24=0x7f070089;
     public static final int ic_call_answer=0x7f07008a;
     public static final int ic_call_answer_low=0x7f07008b;

@@ -6,10 +6,10 @@
 
     <Grid>
     <Grid.RowDefinitions>
+    <RowDefinition Height="40"/>
+    <RowDefinition Height="60"/>
+    <RowDefinition Height="60"/>
     <RowDefinition Height="*"/>
-    <RowDefinition Height="60"/>
-    <RowDefinition Height="60"/>
-    <RowDefinition Height="100"/>
     </Grid.RowDefinitions>
 
     <Image
@@ -17,7 +17,14 @@
         Aspect="AspectFill"
         Grid.RowSpan="4"/>
 
-    
+    <Image
+        x:Name="ImgCavalo"
+        VerticalOptions="Fill"
+        Grid.RowSpan="4"
+        Grid.Row="3"/>
+
+    <Button Text="Fome"
+            Clicked="QuandoOBotao"/>
 
 
 

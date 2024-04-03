@@ -2,9 +2,9 @@ namespace jogo;
 
 public class paiclass  
 {
-    int Hunger;
-    int Thirst;
-    int Happy;
+    int Fome;
+    int Sede;
+    int Feliz;
 
     protected string Arquivo;
 
@@ -16,30 +16,30 @@ public class paiclass
     public paiclass()
 
 {
-    Hunger=10;
-    Thirst=10;
-    Happy=5;
+    Fome=10;
+    Sede=10;
+    Feliz=5;
 }
-    public void SetHunger(int f)
+    public void SetFome(int f)
 {
     if (f <=10 || f >=0)
-        Hunger = f;
+        Fome = f;
     else if (f > 10)
-        Hunger = 10;
+        Fome = 10;
     else
-        Hunger = 0;
+        Fome = 0;
 }
-    public int GetHunger()
+    public int GetFome()
 {
-    return Hunger;
+    return Fome;
 }
-    public int GetThirst()
+    public int GetSede()
 {
-    return Thirst;
+    return Sede;
 }
-    public int GetHappy()
+    public int GetFeliz()
 {
-    return Happy;
+    return Feliz;
 }
 
 }

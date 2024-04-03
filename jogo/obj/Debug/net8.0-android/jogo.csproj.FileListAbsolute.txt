@@ -1036,7 +1036,7 @@ C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_ConvertResourcesCases.s
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\cavalo.jfif
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\vaca.png
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\inicial.jpg
-C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\galinha.jpg
+C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\galinhasemfundo.png
+C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\cavalo.png
