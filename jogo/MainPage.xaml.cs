@@ -13,9 +13,14 @@ public partial class MainPage : ContentPage
 		ImgCavalo.Source= cavalo.GetArquivo();
 	}
 
-	void QuandoOBotao(object sender, EventArgs args);
+	void QuandoOBotao(object sender, EventArgs args)
 	{
-		fome SetFome(GetFome()+0,1);
+		cavalo.SetFome(cavalo.GetFome()+0.1);
+	}
+
+	void QuandoBotao(object sender, EventArgs args)
+	{
+		cavalo.SetSede(cavalo.GetSede()+0.1);
 	}
 
 }

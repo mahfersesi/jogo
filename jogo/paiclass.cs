@@ -2,9 +2,9 @@ namespace jogo;
 
 public class paiclass  
 {
-    int Fome;
-    int Sede;
-    int Feliz;
+    protected double Fome;
+    protected double Sede;
+    protected double Feliz;
 
     protected string Arquivo;
 
@@ -20,24 +20,43 @@ public class paiclass
     Sede=10;
     Feliz=5;
 }
-    public void SetFome(int f)
+    public void SetFome(double f)
 {
-    if (f <=10 || f >=0)
+    if (f <=1.0 || f >=0)
         Fome = f;
-    else if (f > 10)
-        Fome = 10;
+    else if (f > 1.0)
+        Fome = 1.0;
     else
         Fome = 0;
 }
-    public int GetFome()
+    public void SetSede(double f)
+{
+    if (f <=10 || f >=0)
+        Sede = f;
+    else if (f > 10)
+        Sede = 10;
+    else
+        Sede = 0;
+}
+
+    public void SetFeliz(double f)
+{
+    if (f <=10 || f >=0)
+        Feliz = f;
+    else if (f > 10)
+        Feliz = 10;
+    else
+        Feliz = 0;
+}
+    public double GetFome()
 {
     return Fome;
 }
-    public int GetSede()
+    public double GetSede()
 {
     return Sede;
 }
-    public int GetFeliz()
+    public double GetFeliz()
 {
     return Feliz;
 }

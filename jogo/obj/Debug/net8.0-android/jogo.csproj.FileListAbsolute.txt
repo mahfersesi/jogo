@@ -1040,3 +1040,4 @@ C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\vaca.pn
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\inicial.jpg
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\galinhasemfundo.png
 C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\cavalo.png
+C:\Users\Aluno\jogo\jogo\obj\Debug\net8.0-android\resizetizer\r\drawable\fome.png
